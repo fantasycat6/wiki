@@ -1,6 +1,4 @@
 # 漏洞文库
-将 `https://github.com/wy876/POC `中的poc/exp 使用docsify分类整理，方便查看。
-
 ## 2024.11.16 新增漏洞
 
 - [通达OA前台submenu.php存在SQL注入漏洞(CVE-2024-10600)](./通达OA/通达OA前台submenu.php存在SQL注入漏洞(CVE-2024-10600).md)
